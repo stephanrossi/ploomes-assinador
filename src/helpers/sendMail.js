@@ -35,7 +35,7 @@ export async function sendingEmail(personName) {
     try {
         var mailOptions = {
             from: '"Teste DIN" <testedin@previsa.com.br>', // sender address
-            to: 'stephan@previsa.com.br;leonardopereira@previsa.com.br', // list of receivers
+            to: 'stephan@previsa.com.br', // list of receivers
             // to: 'stephan@previsa.com.br;cleiciamonteiro@previsa.com.br;juniormonteiro@previsa.com.br;leonardopereira@previsa.com.br', // list of receivers
             subject: 'Alerta - Assinador Previsa',
             template: 'email', // the name of the template file i.e email.handlebars
@@ -53,5 +53,4 @@ export async function sendingEmail(personName) {
     } catch (error) {
         console.log(error);
     }
-
 }

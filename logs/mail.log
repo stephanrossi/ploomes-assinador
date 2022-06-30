@@ -7301,3 +7301,44 @@
 {"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-28 15:54:13"}
 {"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-28 15:54:46"}
 {"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-28 15:55:34"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 09:53:01"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 10:07:43"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 10:18:36"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 10:22:59"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 10:26:37"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 10:27:58"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 10:28:25"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 10:29:02"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 10:29:32"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 10:29:46"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 10:31:45"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 11:01:50"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 11:02:36"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 13:58:36"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 13:59:05"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 14:16:03"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 14:17:31"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 14:18:36"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 14:21:11"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 14:22:36"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 14:27:24"}
+{"level":"error","message":"readMail: TypeError: text.toLowerCase is not a function","timestamp":"2022-06-30 14:27:25"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 14:27:53"}
+{"level":"error","message":"readMail: TypeError: text.toLowerCase is not a function","timestamp":"2022-06-30 14:27:54"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 14:28:22"}
+{"level":"error","message":"readMail: TypeError: text.replace is not a function","timestamp":"2022-06-30 14:28:23"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 14:31:23"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 14:33:05"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 14:34:05"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 14:35:52"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 14:36:43"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 14:55:20"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 14:58:40"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 15:28:21"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 15:31:32"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 15:32:35"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 15:33:39"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 15:34:35"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 15:35:10"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 15:35:51"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 15:37:05"}

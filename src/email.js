@@ -3,6 +3,7 @@ import imaps from 'imap-simple'
 
 import { mailLogger } from './helpers/logger.js';
 import { sendingEmail } from './helpers/sendMail.js';
+import removeAcento from './helpers/removeAcento.js';
 
 import { convert } from 'html-to-text';
 import { READ_MAIL_CONFIG } from './config.js';
@@ -28,10 +29,12 @@ const readMail = async () => {
         }
 
         results.forEach(async (res) => {
+
             const text = res.parts.filter((part) => {
                 return part.which === 'TEXT';
             });
-            let emailHTML = text[0].body;
+
+            let emailHTML = text[0].body
             let emailText = convert(emailHTML);
 
             let obj = {};
@@ -50,7 +53,7 @@ const readMail = async () => {
                 return false;
             }
 
-            let proposeId = parseInt(obj.Id_Proposta)
+            let proposeId = obj.Id_Proposta
             let funil = obj.Funil
 
             if (funil == "Oportunidades - Previsa Contabilidade") {
@@ -58,8 +61,8 @@ const readMail = async () => {
             } else {
                 funil = 2
             }
-
             await Assinador.createDocument(contractId, clientName, proposeId, funil)
+
         });
         connection.end();
     } catch (error) {

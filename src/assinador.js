@@ -55,7 +55,6 @@ export async function uploadHash(quote) {
 }
 
 export async function createDocument(quote, clientName, proposeId, funil) {
-
     try {
         let getDocInfo = await uploadHash(quote)
         let documentID = getDocInfo[0]
@@ -166,8 +165,7 @@ export async function createDocument(quote, clientName, proposeId, funil) {
                                 "type": "SignatureVisualRepresentation",
                                 "uploadId": documentID,
                                 "topLeftX": 120,
-                                // "topLeftY": 250,
-                                "topLeftY": 435,
+                                "topLeftY": 250,
                                 "width": 200,
                                 "pageNumber": pdfPageCount
                             },
@@ -176,17 +174,17 @@ export async function createDocument(quote, clientName, proposeId, funil) {
                     // {
                     //     "type": "Signer",
                     //     "user": {
-                    //         "name": "Thiago Vitor de Faria Silva",
-                    //         "identifier": "05256067699",
-                    //         "email": "thiagov@previsa.com.br"
+                    //         "name": "Renato Leão Costa",
+                    //         "identifier": "03622626674",
+                    //         "email": "renatoleao@previsa.com.br"
                     //     },
-                    //     "allowElectronicSignature": false,
+                    //     "allowElectronicSignature": true,
                     //     "prePositionedMarks": [
                     //         {
                     //             "type": "SignatureVisualRepresentation",
                     //             "uploadId": documentID,
-                    //             "topLeftX": 50,
-                    //             "topLeftY": 240,
+                    //             "topLeftX": 120,
+                    //             "topLeftY": 435,
                     //             "width": 200,
                     //             "pageNumber": pdfPageCount
                     //         },

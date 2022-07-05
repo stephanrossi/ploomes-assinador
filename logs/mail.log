@@ -7342,3 +7342,17 @@
 {"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 15:35:10"}
 {"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 15:35:51"}
 {"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-06-30 15:37:05"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-07-04 09:36:32"}
+{"level":"error","message":"readMail: CPF on contract 4045016 is missing.","timestamp":"2022-07-04 09:36:33"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-07-04 09:38:52"}
+{"level":"error","message":"readMail: CPF on contract 4045016 is missing.","timestamp":"2022-07-04 09:38:52"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-07-04 09:40:31"}
+{"level":"error","message":"readMail: CPF on contract 4045016 is missing.","timestamp":"2022-07-04 09:40:32"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-07-04 10:35:34"}
+{"level":"error","message":"readMail: CPF on contract 4045016 is missing.","timestamp":"2022-07-04 10:35:35"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-07-04 10:37:38"}
+{"level":"error","message":"readMail: CPF on contract 4045016 is missing.","timestamp":"2022-07-04 10:37:39"}
+{"level":"info","message":"Message sent: 250 2.0.0 OK <c280744c-92e6-cae2-badf-051cc1950165@previsa.com.br> [Hostname=FR1PR80MB4117.lamprd80.prod.outlook.com]","timestamp":"2022-07-04 10:37:41"}
+{"level":"info","message":"CONNECTION SUCCESSFUL.","timestamp":"2022-07-04 10:41:18"}
+{"level":"error","message":"readMail: CPF on contract 4045016 is missing.","timestamp":"2022-07-04 10:41:19"}
+{"level":"info","message":"Message sent: 250 2.0.0 OK <42127675-1857-7dbe-67b5-ebe858c6eeef@previsa.com.br> [Hostname=FR1PR80MB4117.lamprd80.prod.outlook.com]","timestamp":"2022-07-04 10:41:21"}

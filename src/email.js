@@ -47,12 +47,6 @@ const readMail = async () => {
             let clientCPF = obj.CPF_do_Contato
             let contractId = parseInt(obj.Id_contrato)
 
-            if (clientCPF == null || clientCPF == '' || clientCPF == undefined) {
-                await sendingEmail(clientName)
-                mailLogger.error(`readMail: CPF on contract ${contractId} is missing.`)
-                return false;
-            }
-
             let proposeId = obj.Id_Proposta
             let funil = obj.Funil
 
@@ -61,6 +55,13 @@ const readMail = async () => {
             } else {
                 funil = 2
             }
+
+            if (clientCPF == null || clientCPF == '' || clientCPF == undefined) {
+                await sendingEmail(clientName, funil)
+                mailLogger.error(`readMail: CPF on contract ${contractId} is missing.`)
+                return false;
+            }
+
             await Assinador.createDocument(contractId, clientName, proposeId, funil)
 
         });

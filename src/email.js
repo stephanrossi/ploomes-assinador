@@ -18,7 +18,7 @@ const readMail = async () => {
         const searchCriteria = ['UNSEEN'];
         const fetchOptions = {
             bodies: ['HEADER', 'TEXT'],
-            markSeen: false,
+            markSeen: true,
         };
         const results = await connection.search(searchCriteria, fetchOptions);
 
@@ -47,20 +47,25 @@ const readMail = async () => {
             let clientCPF = obj.CPF_do_Contato
             let contractId = parseInt(obj.Id_contrato)
 
-            if (clientCPF == null || clientCPF == '' || clientCPF == undefined) {
-                await sendingEmail(clientName)
-                mailLogger.error(`readMail: CPF on contract ${contractId} is missing.`)
-                return false;
-            }
-
             let proposeId = obj.Id_Proposta
             let funil = obj.Funil
 
             if (funil == "Oportunidades - Previsa Contabilidade") {
                 funil = 1
-            } else {
+            } else if (funil == "Oportunidades - Go Linces") {
                 funil = 2
+            } else {
+                funil = 3
             }
+
+            console.log(funil);
+
+            if (clientCPF == null || clientCPF == '' || clientCPF == undefined) {
+                await sendingEmail(clientName, funil)
+                mailLogger.error(`readMail: CPF on contract ${contractId} is missing.`)
+                return false;
+            }
+
             await Assinador.createDocument(contractId, clientName, proposeId, funil)
 
         });

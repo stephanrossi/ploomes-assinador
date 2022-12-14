@@ -1,0 +1,26 @@
+{"level":"error","message":"CPF is missing on quote 3788907","timestamp":"2022-07-07 09:44:05"}
+{"level":"error","message":"CPF is missing on quote 4065550","timestamp":"2022-07-07 09:48:05"}
+{"level":"error","message":"getQuoteDoc: InvalidPDFException: The PDF file is empty, i.e. its size is zero bytes.","timestamp":"2022-07-26 08:00:07"}
+{"level":"error","message":"getQuoteDoc: InvalidPDFException: The PDF file is empty, i.e. its size is zero bytes.","timestamp":"2022-07-27 09:24:04"}
+{"level":"error","message":"getQuoteDoc: InvalidPDFException: The PDF file is empty, i.e. its size is zero bytes.","timestamp":"2022-07-27 09:24:04"}
+{"level":"error","message":"getQuoteDoc: InvalidPDFException: The PDF file is empty, i.e. its size is zero bytes.","timestamp":"2022-08-02 09:23:42"}
+{"level":"error","message":"getQuoteDoc: InvalidPDFException: The PDF file is empty, i.e. its size is zero bytes.","timestamp":"2022-08-02 09:23:42"}
+{"level":"error","message":"getQuoteDoc: InvalidPDFException: The PDF file is empty, i.e. its size is zero bytes.","timestamp":"2022-08-02 09:23:42"}
+{"level":"error","message":"getQuoteDoc: InvalidPDFException: The PDF file is empty, i.e. its size is zero bytes.","timestamp":"2022-08-02 09:23:42"}
+{"level":"error","message":"getQuoteDoc: InvalidPDFException: The PDF file is empty, i.e. its size is zero bytes.","timestamp":"2022-08-03 17:58:04"}
+{"level":"error","message":"getQuoteDoc: InvalidPDFException: The PDF file is empty, i.e. its size is zero bytes.","timestamp":"2022-08-03 17:58:04"}
+{"level":"error","message":"getQuoteDoc: InvalidPDFException: The PDF file is empty, i.e. its size is zero bytes.","timestamp":"2022-08-03 17:58:04"}
+{"level":"error","message":"getQuoteDoc: InvalidPDFException: The PDF file is empty, i.e. its size is zero bytes.","timestamp":"2022-08-03 17:58:04"}
+{"level":"error","message":"CPF is missing on quote 400007314","timestamp":"2022-10-03 08:56:41"}
+{"level":"error","message":"CPF is missing on quote 400018701","timestamp":"2022-10-25 14:33:42"}
+{"level":"error","message":"CPF is missing on quote 400018701","timestamp":"2022-10-25 14:38:22"}
+{"level":"error","message":"CPF is missing on quote 400022612","timestamp":"2022-10-27 11:12:10"}
+{"level":"error","message":"CPF is missing on quote 400094640","timestamp":"2022-12-12 15:44:12"}
+{"level":"error","message":"CPF is missing on quote 400094640","timestamp":"2022-12-12 15:46:12"}
+{"level":"error","message":"CPF is missing on quote 400094640","timestamp":"2022-12-12 15:46:21"}
+{"level":"error","message":"CPF is missing on quote 400094640","timestamp":"2022-12-12 16:00:06"}
+{"level":"error","message":"CPF is missing on quote 400094640","timestamp":"2022-12-12 16:01:57"}
+{"level":"error","message":"CPF is missing on quote 400094640","timestamp":"2022-12-12 16:03:50"}
+{"level":"error","message":"CPF is missing on quote 400094640","timestamp":"2022-12-12 16:07:37"}
+{"level":"error","message":"CPF is missing on quote 400094640","timestamp":"2022-12-14 10:01:43"}
+{"level":"error","message":"CPF is missing on quote 400100435","timestamp":"2022-12-14 10:21:50"}

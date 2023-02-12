@@ -24,3 +24,46 @@
 {"level":"error","message":"CPF is missing on quote 400094640","timestamp":"2022-12-12 16:07:37"}
 {"level":"error","message":"CPF is missing on quote 400094640","timestamp":"2022-12-14 10:01:43"}
 {"level":"error","message":"CPF is missing on quote 400100435","timestamp":"2022-12-14 10:21:50"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:16"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:16"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:16"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:16"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:16"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:16"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:16"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:16"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:17"}
+{"level":"error","message":"getPersonID: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:18"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:18"}
+{"level":"error","message":"getPersonID: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:18"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:18"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:19"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:19"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:19"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:19"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 429","timestamp":"2023-01-12 16:23:19"}
+{"level":"error","message":"getQuoteDoc: AxiosError: Request failed with status code 500","timestamp":"2023-01-16 14:30:33"}
+{"level":"error","message":"getPersonID: AxiosError: Request failed with status code 500","timestamp":"2023-01-16 14:30:34"}
+{"level":"error","message":"getPersonData: AxiosError: Request failed with status code 400","timestamp":"2023-01-16 14:30:34"}
